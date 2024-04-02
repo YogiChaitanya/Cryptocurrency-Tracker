@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+
+.cryptocurrencies-list {
+  padding: 30px;
+}
+
+.heading1 {
+  color: #00e7ff;
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Roboto';
+}
+.cryptocurrency {
+  width: 80%;
+}
